@@ -2,6 +2,7 @@
   "name": "refs",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/hassanRushdi/Timer-Challenge/",
   "type": "module",
   "scripts": {
     "dev": "vite",
